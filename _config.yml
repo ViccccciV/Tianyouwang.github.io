@@ -12,7 +12,7 @@ title                    : "Tianyou's homepage"
 title_separator          : "-"
 name                     : &name "Tianyou Wang"
 description              : &description "personal description"
-url                      : "https://Tianyouwang.github.io
+url                      : "https://Tianyouwang.github.io"
  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   bio              : "Master of Science in Robotics"
   location         : "Pennsylvania"
   employer         : "University of Pennsylvania"
-  uri              : # URL
+  uri              : "https://Tianyouwang.github.io"
   email            : "wty518@seas.upenn.edu" 
 
   # Academic websites
