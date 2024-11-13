@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tianyou Wang's homepagae"
+title                    : "Tianyou Wang's homepage"
 title_separator          : "-"
 name                     : &name "Tianyou Wang"
 description              : &description "personal description"
-url                      : https://Tianyouwang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/WechatIMG2408.png"
+  avatar           : "profile.png"
   name             : "Tianyou Wang"
   pronouns         : # example: "she/her"  
   bio              : "Master of Science in Robotics"
   location         : "Pennsylvania"
   employer         : "University of Pennsylvania"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wty518@seas.upenn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
