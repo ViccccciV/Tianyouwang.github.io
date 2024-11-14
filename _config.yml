@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/16361729967450_.pic.png" 
+  avatar           : "images/16361729967450_.png" 
   name             : "Tianyou Wang"
   pronouns         : # example: "she/her"  
   bio              : "Master of Science in Robotics"
