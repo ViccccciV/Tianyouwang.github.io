@@ -10,7 +10,7 @@ My name is Tianyou Wang,a Master student majoring in Robotics at the University 
 
 **Research Experience**
 ======
-------
+
 Research 1
 ------
 Distilling Robotic Manipulation Skills from Web Videos
@@ -25,7 +25,7 @@ Trajectory Planning and Closed-loop Control for a Subway Seat Cleaning Robot Man
 
 **Projects**
 ======
-------
+
 Project 1
 ------
 Intelligent Logistic Robot Car Project
@@ -40,7 +40,6 @@ Fault Diagnosis of Permanent Magnet Motor Based on DCGAN-RCCNN
 
 **Publication**
 ======
-------
 Pub 1
 ------
 Pub 2
