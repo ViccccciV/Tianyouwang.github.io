@@ -38,7 +38,7 @@ Proejct 2
 ------
 Train Speed Trajectory Optimization
 
-Links to video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
+Links to video: [View Video](./portfolio/car collecting ball.mp4)
 
 Project 3
 ------
