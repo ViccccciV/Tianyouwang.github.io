@@ -31,7 +31,7 @@ Intelligent Logistic Robot Car Project
 ------
 Name and position of participants
 <img src="https://github.com/user-attachments/assets/a984b2a8-a3bc-4aba-9a3a-be93a91ef2e4" alt="Sequence 01_4" width="800" height="800">
-#![Sequence 01_4](https://github.com/user-attachments/assets/9b916738-64df-4e4e-9bc2-66bc93a0ca3b)
+![Sequence 01_4](https://github.com/user-attachments/assets/9b916738-64df-4e4e-9bc2-66bc93a0ca3b)
 Links to video: [View Video](./_portfolio/15%202024-11-11%2019.40.00.mp4)
 
 Proejct 2
