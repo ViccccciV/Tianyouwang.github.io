@@ -38,6 +38,8 @@ Proejct 2
 ------
 Train Speed Trajectory Optimization
 
+Links to video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
+
 Project 3
 ------
 Fault Diagnosis of Permanent Magnet Motor Based on DCGAN-RCCNN
