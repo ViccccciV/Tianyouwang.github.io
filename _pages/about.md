@@ -8,7 +8,6 @@ redirect_from:
 ---
 My name is Tianyou Wang,a Master student majoring in Robotics at the University of Pennsylvania. I am involve in GRASP Laboratory, where I focus on advancing robotics and intelligent systems. My research spans various innovative projects, including robotic manipulation, policy generalization, and applied robotics for real-world tasks. Recently, I contributed to the development of the ZeroMimic system, where I worked on processing 3D human trajectory data and building evaluation methods to distill manipulation skills for robots, achieving a 67.9% success rate in real-world trials.
 
-<div style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start;">
 
 **Research Experience**
 ======
