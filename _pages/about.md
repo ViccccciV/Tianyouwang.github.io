@@ -11,14 +11,7 @@ My name is Tianyou Wang,a Master student majoring in Robotics at the University 
 
 **Research Experience**
 ======
-<h2>Research</h2>
-<div>
-  <h3>AG-SLAM: Active Gaussian Splatting SLAM</h3>
-  <p>
-    <strong>Wen Jiang</strong>, Boshu Lei, Katrina Ashton, Kostas Daniilidis<br>
-    <i>arxiv preprint, 2024</i><br>
-    <a href="#">arxiv</a> / <a href="#">code (coming)</a>
-  </p>
+
 Research 1
 ------
 Distilling Robotic Manipulation Skills from Web Videos
@@ -48,8 +41,10 @@ Fault Diagnosis of Permanent Magnet Motor Based on DCGAN-RCCNN
 
 **Publication**
 ======
+
 Pub 1
 ------
+
 Pub 2
 ------
 
