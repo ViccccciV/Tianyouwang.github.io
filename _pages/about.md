@@ -36,6 +36,7 @@ Links to video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
 
 Train Speed Trajectory Optimization
 ------
+Name and position of participants
 <img src="./images/ball%20collecting.gif" alt="Ball Collecting" width="500" height="600" >
 
 Links to video: [View Video](./_portfolio/car%20collecting%20ball.mp4)
