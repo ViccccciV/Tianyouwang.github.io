@@ -14,7 +14,7 @@ My name is Tianyou Wang,a Master student majoring in Robotics at the University 
 
 Research 1
 ------
-Distilling Robotic Manipulation Skills from Web Videos
+Distilling Robotic Manipulation Skills from Web Videos!
 
 Research 2
 ------
@@ -27,9 +27,10 @@ Trajectory Planning and Closed-loop Control for a Subway Seat Cleaning Robot Man
 **Projects**
 ======
 
-Project 1
-------
 Intelligent Logistic Robot Car Project
+------
+Name and position of participants
+![Sequence 01_4](https://github.com/user-attachments/assets/a984b2a8-a3bc-4aba-9a3a-be93a91ef2e4)
 
 Proejct 2
 ------
