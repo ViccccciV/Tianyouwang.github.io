@@ -42,9 +42,11 @@ Name and position of participants
 Links to video: [View Video](./portfolio/car%20collecting%20ball.mp4)
 
 
-Project 3
-------
 Fault Diagnosis of Permanent Magnet Motor Based on DCGAN-RCCNN
+------
+
+Links to video: [View Video](./_portfolio/wireless%20car%20with%20subtitle.mp4)
+
 
 **Publication**
 ======
