@@ -47,7 +47,7 @@ Fault Diagnosis of Permanent Magnet Motor Based on DCGAN-RCCNN
 Name and position of participants
 <img src="./images/Sequence%2003.gif" alt="Sequence 03 Animation" width="500" height="600" >
 
-Links to video: [View Video](./_portfolio/wireless%20car%20with%20subtitle.mp4)
+Links to video: [View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
 
 **Publication**
