@@ -39,7 +39,7 @@ Train Speed Trajectory Optimization
 Name and position of participants
 <img src="./images/ball%20collecting.gif" alt="Ball Collecting" width="500" height="600" >
 
-Links to video: [View Video](./_portfolio/car%20collecting%20ball.mp4)
+Links to video: [View Video](./portfolio/car%20collecting%20ball.mp4)
 
 
 Project 3
