@@ -30,7 +30,7 @@ Trajectory Planning and Closed-loop Control for a Subway Seat Cleaning Robot Man
 Intelligent Logistic Robot Car Project
 ------
 Name and position of participants
-<img src="./images/Sequence 01_4.gif" alt="images/Sequence 01_4.gif" width="600" height="500" >
+<img src="./images/Sequence 01_4.gif" alt="images/Sequence 01_4.gif" width="200" height="200" >
 
 Links to video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
 
