@@ -14,7 +14,7 @@ My name is Tianyou Wang,a Master student majoring in Robotics at the University 
 
 Research 1
 ------
-Distilling Robotic Manipulation Skills from Web Videos!
+Distilling Robotic Manipulation Skills from Web Videos
 
 Research 2
 ------
