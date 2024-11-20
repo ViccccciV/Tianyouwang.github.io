@@ -18,7 +18,8 @@ Name of participants
 
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
-Name of participants
+Name of participants:
+
 1.3D Reconstruction and Data Processing:  Extracted human wrist trajectories grounded in world 3D coordinates by reconstructing the hand pose and the egocentric cameras. Processed human data for ACT and Diffusion Policy training, ensuring data quality and model training effectiveness.
 
 2.ZeroMimic System Construction: Designed Human Affordance-based Grasping built on VRB and AnyGrasp for the
@@ -28,14 +29,16 @@ grasping module in the system. Took part in implementing the wrist trajectory po
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
 ------
-Name of participants
+Name of participants:
+
 1.Model Construction: Modified the Action-Chunking Transformer by replacing original image feature embeddings with pre-trained observation-to-state mappings, creating the GDN-ACT model.
    
 2.Experiment Demonstration: Demonstrated the construction and training process of the GDN network, verifying its generalization capability and applicability in 6 new environments.
 
 Trajectory Planning and Closed-loop Control for a Subway Seat Cleaning Robot Manipulator
 ------
-Name of participants
+Name of participants:
+
 1.Impedance Control: Implemented an impedance control algorithm, ensuring the roller end-effector accurately tracked seat contours in real-time and applied the necessary force for consistent cleaning results.
 
 2.Simulation: Conducted simulations using ROS and Gazebo to test and verify the control algorithm's effectiveness.
