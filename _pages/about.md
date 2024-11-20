@@ -26,10 +26,9 @@ grasping module in the system. Took part in implementing the wrist trajectory po
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
 ------
-1. Model Construction: Modified the Action-Chunking Transformer by replacing original image feature embeddings with pre-trained observation-to-state mappings, creating the GDN-ACT model.
+1.Model Construction: Modified the Action-Chunking Transformer by replacing original image feature embeddings with pre-trained observation-to-state mappings, creating the GDN-ACT model.
    
-2.Experiment Demonstration: Demonstrated the construction and training process of the GDN network, verifying its
-generalization capability and applicability in 6 new environments.
+2.Experiment Demonstration: Demonstrated the construction and training process of the GDN network, verifying its generalization capability and applicability in 6 new environments.
 
 Trajectory Planning and Closed-loop Control for a Subway Seat Cleaning Robot Manipulator
 ------
