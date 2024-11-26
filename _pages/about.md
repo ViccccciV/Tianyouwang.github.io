@@ -13,35 +13,23 @@ My name is Tianyou Wang,a Master student majoring in Robotics（你专业全称�
 
 Metric-Scale Human Hand Grasp Generation from Single-View Input
 ------
-Name of participants
-1.3D Hand Generation: Building diffusion-based grasp generation model from in-the-wild human videos.
+Name of participants：
+
 
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
 Name of participants:
 
-1.3D Reconstruction and Data Processing:  Extracted human wrist trajectories grounded in world 3D coordinates by reconstructing the hand pose and the egocentric cameras. Processed human data for ACT and Diffusion Policy training, ensuring data quality and model training effectiveness.
-
-2.ZeroMimic System Construction: Designed Human Affordance-based Grasping built on VRB and AnyGrasp for the
-grasping module in the system. Took part in implementing the wrist trajectory policy in the DROID robot setting for the post-grasp module in the system.
-
-3.Policy Evaluation: Processed both robot data and human data and established evaluation methods to assess zero-shot policy performance in diverse everyday environments. Performed experiments on 9 skill policies using a Franka Emika Panda Arm in 3 diverse environments and showed that ZeroMimic achieves 67.9% out-of-the-box success rate.
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
 ------
 Name of participants:
 
-1.Model Construction: Modified the Action-Chunking Transformer by replacing original image feature embeddings with pre-trained observation-to-state mappings, creating the GDN-ACT model.
-   
-2.Experiment Demonstration: Demonstrated the construction and training process of the GDN network, verifying its generalization capability and applicability in 6 new environments.
 
 Trajectory Planning and Closed-loop Control for a Subway Seat Cleaning Robot Manipulator
 ------
 Name of participants:
 
-1.Impedance Control: Implemented an impedance control algorithm, ensuring the roller end-effector accurately tracked seat contours in real-time and applied the necessary force for consistent cleaning results.
-
-2.Simulation: Conducted simulations using ROS and Gazebo to test and verify the control algorithm's effectiveness.
 
 **Projects**
 ======
