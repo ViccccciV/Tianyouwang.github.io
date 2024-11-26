@@ -19,6 +19,8 @@ Name of participants：
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
 Name of participants: Zhuolun Zhao*, Junyao Shi*, Tianyou Wang, Jason Ma, Dinesh Jayaraman, ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos, 2025 IEEE International Conference on Robotics & Automation (ICRA 2025). Submitted. [*Equal Contrubution.] https://zeromimic.github.io/![image](https://github.com/user-attachments/assets/d9d62fa2-66f0-4533-a7b0-2cb6b4f32ffb)
+Links to video: [Watch on YouTube](https://www.youtube.com/watch?v=nFhNSsR7TEY)
+
 
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
