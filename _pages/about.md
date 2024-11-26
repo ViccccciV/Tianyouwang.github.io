@@ -6,7 +6,7 @@ redirect_from:
   - /about/ 
   - /about.html
 ---
-My name is Tianyou Wang,a Master student majoring in Robotics（你专业全称看看有没有问题） at the University of Pennsylvania. Having majored in intelligent manufacturing and robotics, I have always been passionate about exploring cutting-edge issues in the field of robotics. My fascination with 3D computer vision and robot learning grew during my master’s study at the GRASP Laboratory, where I contributed to the ZeroMimic project under Prof. DineshJayaraman’s guidance. My research （research interest你看看对不对）  spans various innovative projects, including robotic policy generalization and applied robotics for real-world tasks. Recently,I'm developing a project focus on Metric-Scale Human Hand Grasp Generation from Single-View Input for Robotic Manipulation.
+My name is Tianyou Wang,a Master student majoring in Robotics（你专业全称看看有没有问题） at the University of Pennsylvania. Having majored in intelligent manufacturing and robotics, I have always been passionate about exploring cutting-edge issues in the field of robotics. My fascination with 3D computer vision and robot learning grew during my master’s study at the GRASP Laboratory, where I contributed to the ZeroMimic project under Prof. DineshJayaraman’s guidance. My research （research interest你看看对不对） includes robotic policy generalization and applied robotics for real-world tasks. Recently,I'm developing a project focus on Metric-Scale Human Hand Grasp Generation from Single-View Input for Robotic Manipulation.
 
 **Research Experience**
 ======
@@ -18,7 +18,7 @@ Name of participants：
 
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
-Name of participants:
+Name of participants: Zhuolun Zhao*, Junyao Shi*, Tianyou Wang, Jason Ma, Dinesh Jayaraman, ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos, 2025 IEEE International Conference on Robotics & Automation (ICRA 2025). Submitted. [*Equal Contrubution.] https://zeromimic.github.io/![image](https://github.com/user-attachments/assets/d9d62fa2-66f0-4533-a7b0-2cb6b4f32ffb)
 
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
