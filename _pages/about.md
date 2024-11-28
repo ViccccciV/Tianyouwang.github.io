@@ -20,7 +20,7 @@ ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
 Zhuolun Zhao, Junyao Shi, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman, ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos, 2025 IEEE International Conference on Robotics & Automation (ICRA 2025). Submitted.
 
-<img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="600">
+<img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
 
 
 
@@ -75,6 +75,3 @@ International Conference on SmartRail, Traffic and Transportation Engineering (I
 ------
 Chuyao Zhang*, Tianyou Wang*, Yifan Feng, Train Speed Optimization Based on Lagrangian Relaxation Algorithm,2022 International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023) (Conference).（*First authorship shared. Order on publication randomized.）
 
-For more info
-------
-"https://www.linkedin.com/in/tianyou-wang-5b7ab028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
