@@ -22,7 +22,7 @@ Zhuolun Zhao, Junyao Shi, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman, ZeroMimi
 <img src="./images/Sequence%2002%20(1).gif" alt="Sequence 02 Animation" width="500">
 
 
-Project video: [Watch on YouTube](https://www.youtube.com/watch?v=nFhNSsR7TEY)
+Project Video: [Watch on YouTube](https://www.youtube.com/watch?v=nFhNSsR7TEY)
 
 Project Website: [Visit the ZeroMimic Website](https://zeromimic.github.io/)
 
