@@ -23,7 +23,8 @@ Name of participants: Zhuolun Zhao*, Junyao Shi*, Tianyou Wang, Jason Ma, Dinesh
 
 
 Project video: [Watch on YouTube](https://www.youtube.com/watch?v=nFhNSsR7TEY)
-Project website: 
+[Visit the ZeroMimic Website](https://zeromimic.github.io/)
+
 
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
