@@ -48,20 +48,20 @@ Intelligent Logistic Robot Car Project 名不确定
 ------
 <img src="./images/Sequence 01_4.gif" alt="images/Sequence 01_4.gif" width="500" height="600" >
 
-Links to video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
+Project Video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
 
 Train Speed Trajectory Optimization 名不确定
 ------
 <img src="./images/ball%20collecting.gif" alt="Ball Collecting" width="500" height="600" >
 
-Links to video: [View Video](./portfolio/car%20collecting%20ball.mp4)
+Project Video: [View Video](./portfolio/car%20collecting%20ball.mp4)
 
 
 Fault Diagnosis of Permanent Magnet Motor Based on DCGAN-RCCNN 名不确定
 ------
 <img src="./images/Sequence%2003.gif" alt="Sequence 03 Animation" width="500" height="600" >
 
-Links to video: [View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
+Project Video: [View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
 
 **Publication**
