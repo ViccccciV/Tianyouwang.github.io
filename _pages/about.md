@@ -51,8 +51,7 @@ Project Video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
 
 Intelligent Logistic Robot Car
 ------
-
-<img src="images/Inrtelligent_logistics_robot_car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
+<img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" style="max-width:100%; height:auto;">
 
 Project Video: [View Video](./_portfolio/muted_logistic_robo_car.mp4)
 
