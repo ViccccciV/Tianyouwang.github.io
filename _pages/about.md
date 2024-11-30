@@ -52,6 +52,8 @@ Intelligent Logistic Robot Car
 ------
 <img src="./images/ball%20collecting.gif" alt="Ball Collecting" width="500" height="600" >
 
+<img src="images/Inrtelligent_logistics_robot_car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
+
 Project Video: [View Video](./portfolio/car%20collecting%20ball.mp4)
 
 
