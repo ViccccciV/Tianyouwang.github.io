@@ -32,8 +32,6 @@ International Conference on SmartRail, Traffic and Transportation Engineering (I
 ------
 Chuyao Zhang, **Tianyou Wang**, Yifan Feng, Train Speed Optimization Based on Lagrangian Relaxation Algorithm,2022 International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023) (Conference).（First authorship shared. Order on publication randomized.）
 
-
-
 **Projects**
 ======
 
