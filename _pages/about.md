@@ -48,13 +48,14 @@ Name of participants:
 
 Project Video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
 
+
 Intelligent Logistic Robot Car
 ------
 <img src="./images/ball%20collecting.gif" alt="Ball Collecting" width="500" height="600" >
 
 <img src="images/Inrtelligent_logistics_robot_car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
-Project Video: [View Video](./portfolio/car%20collecting%20ball.mp4)
+Project Video: [View Video](./_portfolio/muted_logistic_robo_car.mp4)
 
 
 Wireless Charging Robot Car
