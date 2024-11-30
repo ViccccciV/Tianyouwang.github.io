@@ -23,41 +23,39 @@ Zhuolun Zhao, Junyao Shi, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman, ZeroMimi
 <img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
 
 
-
 Project Video: [Watch on YouTube](https://www.youtube.com/watch?v=nFhNSsR7TEY)
 
 Project Website: [Visit the ZeroMimic Website](https://zeromimic.github.io/)
 
 
+International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023)
+------
+Chuyao Zhang, **Tianyou Wang**, Yifan Feng, Train Speed Optimization Based on Lagrangian Relaxation Algorithm,2022 International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023) (Conference).（First authorship shared. Order on publication randomized.）
 
+
+
+**Projects**
+======
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
 ------
 Name of participants:
 
 
-Trajectory Planning and Closed-loop Control for a Subway Seat Cleaning Robot Manipulator
-------
-Name of participants:
-
-
-**Projects**
-======
-
-Intelligent Logistic Robot Car Project 名不确定
+投石车
 ------
 <img src="./images/Sequence 01_4.gif" alt="images/Sequence 01_4.gif" width="500" height="600" >
 
 Project Video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
 
-Train Speed Trajectory Optimization 名不确定
+Intelligent Logistic Robot Car
 ------
 <img src="./images/ball%20collecting.gif" alt="Ball Collecting" width="500" height="600" >
 
 Project Video: [View Video](./portfolio/car%20collecting%20ball.mp4)
 
 
-Fault Diagnosis of Permanent Magnet Motor Based on DCGAN-RCCNN 名不确定
+Wireless Charging Robot Car
 ------
 <img src="./images/Sequence%2003.gif" alt="Sequence 03 Animation" width="500" height="600" >
 
