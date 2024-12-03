@@ -26,6 +26,9 @@ Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
 
 <img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
 
+Embedded Multi-material 3D Printing System
+------
+Tianyou Wang, Yixin Li, Yong Zhong
 
 Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 ------
@@ -35,10 +38,6 @@ Chuyao Zhang\*, **Tianyou Wang**\*, Yifan Feng
 Fault Diagnosis of Permanent Magnet Motor based on DCGAN-RCCNN
 ------
 Dong Zhang, Zhaoqiu Ning, Bai Yang, **Tianyou Wang**, YangJuan Ma
-
-Credit Card Fraud Detection using Logistic Regression
-------
-**Tianyou Wang**\*, Yucheng Zhao\*
 
 
 <hr class="transparent-line">
