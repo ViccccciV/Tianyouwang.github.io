@@ -34,7 +34,6 @@ Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 ------
 Chuyao Zhang\*, **Tianyou Wang**\*, Yifan Feng
 
-
 Fault Diagnosis of Permanent Magnet Motor based on DCGAN-RCCNN
 ------
 Dong Zhang, Zhaoqiu Ning, Bai Yang, **Tianyou Wang**, YangJuan Ma
