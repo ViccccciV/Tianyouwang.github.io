@@ -10,24 +10,11 @@ I am a second-year Master's student in Robotics at the [GRASP Laboratory](https:
 
 **Publications**
 ======
-
-Metric-Scale Human Hand Grasp Generation from Single-View Input
-------
-Name of participants：
-
-
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
 Zhuolun Zhao, Junyao Shi, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
-<hr>  
-2025 IEEE International Conference on Robotics & Automation (ICRA 2025). Submitted.
-
+[Visit the ZeroMimic Website](https://zeromimic.github.io/)
 <img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
-
-
-Project Video: [Watch on YouTube](https://www.youtube.com/watch?v=nFhNSsR7TEY)
-
-Project Website: [Visit the ZeroMimic Website](https://zeromimic.github.io/)
 
 
 International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023)
