@@ -28,7 +28,7 @@ Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
 
 Embedded Multi-material 3D Printing System
 ------
-Tianyou Wang, Yixin Li, Yong Zhong
+**Tianyou Wang**, Yixin Li, Yong Zhong
 
 Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 ------
