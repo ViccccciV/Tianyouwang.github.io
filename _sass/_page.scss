@@ -7,7 +7,7 @@
   @include clearfix;
   margin-top: 2em;
   padding-left: 1em;
-  padding-right: 1em;
+  padding-right: 0em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -59,23 +59,18 @@
     font-size: 1em;
   }
 
-  /* paragraph indents */
-  // p {
-  //   margin: 0 0 $indent-var;
-
-  //   /* sibling indentation*/
-  //   @if $paragraph-indent == true {
-  //     & + p {
-  //       text-indent: $indent-var;
-  //       margin-top: -($indent-var);
-  //     }
-  //   }
-  // }
+  * paragraph indents */
   p {
-        word-wrap: break-word; /* Prevent words from breaking awkwardly */
-        white-space: normal; /* Allow text to break naturally */
-        line-height: 1.5; /* Adjust line height for better readability */
-    }
+     margin: 0 0 $indent-var;
+
+     /* sibling indentation*/
+     @if $paragraph-indent == true {
+       & + p {
+         text-indent: $indent-var;
+         margin-top: -($indent-var);
+       }
+     }
+   }
 
   a {
     text-decoration: underline;
