@@ -56,14 +56,14 @@ Remote Ball Shooting Robot Car
 ------
 <img src="./images/Sequence 01_4.gif" alt="images/Sequence 01_4.gif" width="500" height="600" >
 
-[View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
+[Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
 
 
 Intelligent Logistic Robot Car
 ------
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
-[View Video](./_portfolio/muted_logistic_robo_car.mp4)
+[Video](./_portfolio/muted_logistic_robo_car.mp4)
 
 
 Wireless Charging Robot Car
@@ -71,7 +71,7 @@ Wireless Charging Robot Car
 
 <img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
 
-[View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
+[Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
 
 ======
