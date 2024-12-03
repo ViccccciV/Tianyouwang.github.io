@@ -17,14 +17,14 @@ ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
 Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
 
-[Visit the ZeroMimic Website](https://zeromimic.github.io/)
+[Project Website](https://zeromimic.github.io/)
 
 <img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
 
 
-International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023)
+Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 ------
-Chuyao Zhang, **Tianyou Wang**, Yifan Feng, Train Speed Optimization Based on Lagrangian Relaxation Algorithm,2022 International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023) (Conference).（First authorship shared. Order on publication randomized.）
+Chuyao Zhang\*, **Tianyou Wang**\*, Yifan Feng
 
 2
 ------
