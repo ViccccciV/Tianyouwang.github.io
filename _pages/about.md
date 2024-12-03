@@ -6,7 +6,7 @@ redirect_from:
   - /about/ 
   - /about.html
 ---
-I am a second-year Master's student in Robotics at the [General Robotics, Automation, Sensing & Perception (GRASP) Laboratory](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by Prof. Dinesh Jayaraman and Prof. Kostas Daniilidis.n
+I am a second-year Master's student in Robotics at the [General Robotics, Automation, Sensing & Perception (GRASP) Laboratory](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by Prof. Dinesh Jayaraman and Prof. Kostas Daniilidis.
 
 **Research Experience**
 ======
