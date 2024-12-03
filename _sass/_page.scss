@@ -60,17 +60,17 @@
   }
 
   /* paragraph indents */
-  p {
-    margin: 0 0 $indent-var;
+  // p {
+  //   margin: 0 0 $indent-var;
 
-    /* sibling indentation*/
-    @if $paragraph-indent == true {
-      & + p {
-        text-indent: $indent-var;
-        margin-top: -($indent-var);
-      }
-    }
-  }
+  //   /* sibling indentation*/
+  //   @if $paragraph-indent == true {
+  //     & + p {
+  //       text-indent: $indent-var;
+  //       margin-top: -($indent-var);
+  //     }
+  //   }
+  // }
   p {
         word-wrap: break-word; /* Prevent words from breaking awkwardly */
         white-space: normal; /* Allow text to break naturally */
