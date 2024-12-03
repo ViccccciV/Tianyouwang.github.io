@@ -61,6 +61,7 @@ Wireless Charging Robot Car
 ------
 
 <img src="images/bh.gif" alt="BH GIF" style="max-width:100%; height:auto;">
+<img src="images/bh.gif" alt="BH GIF" style="max-width:100%; height:auto;">
 
 Project Video: [View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
