@@ -10,7 +10,7 @@ I am a second-year Master's student in Robotics at the [General Robotics, Automa
 
 My research interests lie at the intersection of robot learning and 3D computer vision, with a focus on enabling robots to learn from humans and adapt to diverse,&nbsp;unstructured environments.
 
-**Research Experience**
+**Publications**
 ======
 
 Metric-Scale Human Hand Grasp Generation from Single-View Input
@@ -20,7 +20,9 @@ Name of participants：
 
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
-Zhuolun Zhao, Junyao Shi, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman, ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos, 2025 IEEE International Conference on Robotics & Automation (ICRA 2025). Submitted.
+Zhuolun Zhao, Junyao Shi, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
+<hr>  
+2025 IEEE International Conference on Robotics & Automation (ICRA 2025). Submitted.
 
 <img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
 
