@@ -25,10 +25,10 @@ Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 Chuyao Zhang\*, **Tianyou Wang**\*, Yifan Feng
 
 
-======
+
 **Projects**
 ------
-
+======
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
 ------
 <img src="images/novel%20robo.gif" alt="Novel Robo GIF" width="500" height="600">
