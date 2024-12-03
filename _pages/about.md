@@ -14,7 +14,9 @@ I am a second-year Master's student in Robotics at the [GRASP Laboratory](https:
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
 Zhuolun Zhao, Junyao Shi, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
+
 [Visit the ZeroMimic Website](https://zeromimic.github.io/)
+
 <img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
 
 
