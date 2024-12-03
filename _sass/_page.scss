@@ -72,6 +72,11 @@
     }
   }
 
+   p {
+    word-break: keep-all;
+    white-space: nowrap;
+   }
+
   a {
     text-decoration: underline;
 
