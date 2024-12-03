@@ -40,7 +40,7 @@ Chuyao Zhang, **Tianyou Wang**, Yifan Feng, Train Speed Optimization Based on La
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
 ------
-<img src="images/novel%201.gif" alt="Novel GIF" width="500" height="500" >
+<img src="./images/novel%201.gif" alt="Novel GIF" width="500" height="500" >
 
 
 投石车
