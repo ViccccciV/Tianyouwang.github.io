@@ -6,7 +6,7 @@ redirect_from:
   - /about/ 
   - /about.html
 ---
-My name is Tianyou Wang,a Master student majoring in Robotics（你专业全称看看有没有问题） at the University of Pennsylvania. Having majored in intelligent manufacturing and robotics, I have always been passionate about exploring cutting-edge issues in the field of robotics. My fascination with 3D computer vision and robot learning grew during my master’s study at the GRASP Laboratory, where I contributed to the ZeroMimic project under Prof. DineshJayaraman’s guidance. My research （research interest你看看对不对） includes robotic policy generalization and applied robotics for real-world tasks. Recently,I'm developing a project focus on Metric-Scale Human Hand Grasp Generation from Single-View Input for Robotic Manipulation.
+My name is Tianyou Wang,a Master student majoring in Robotics（你专业全称看看有没有问题） at the University of Pennsylvania. Having majored in intelligent manufacturing and robotics, I have always been passionate about exploring cutting-edge issues in the field of robotics. My fascination with 3D computer vision and robot learning grew during my master’s study at the GRASP Laboratory, where I contributed to the ZeroMimic project under Prof. DineshJayaraman’s guidance. My research （research interest你看看对不对） includes robotic policy generalization and applied robotics for real-world tasks. Recently,I'm developing a project focus on Metric-Scale Human Hand Grasp Generation from Single-View Input for Robotic Manipulation.j
 
 **Research Experience**
 ======
