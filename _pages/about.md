@@ -8,8 +8,8 @@ redirect_from:
 ---
 I am a second-year Master's student in Robotics at the [GRASP Laboratory](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by [Prof.&nbsp;Dinesh&nbsp;Jayaraman](https://www.seas.upenn.edu/~dineshj/) and [Prof.&nbsp;Kostas&nbsp;Daniilidis](https://www.cis.upenn.edu/~kostas/).  My research interests lie at the intersection of robot learning and 3D computer vision, with a focus on enabling robots to learn from humans and adapt to diverse, unstructured environments.
 
-
-======
+1
+------
 **Publications**
 ======
 
@@ -26,7 +26,8 @@ International Conference on SmartRail, Traffic and Transportation Engineering (I
 ------
 Chuyao Zhang, **Tianyou Wang**, Yifan Feng, Train Speed Optimization Based on Lagrangian Relaxation Algorithm,2022 International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023) (Conference).（First authorship shared. Order on publication randomized.）
 
-======
+2
+------
 **Projects**
 ======
 
@@ -55,7 +56,8 @@ Wireless Charging Robot Car
 
 Project Video: [View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
-======
+3
+------
 **Publication**
 ======
 
