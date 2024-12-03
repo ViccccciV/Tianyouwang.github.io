@@ -7,14 +7,19 @@ redirect_from:
   - /about.html
 ---
 I am a second-year Master's student in Robotics at the [GRASP Laboratory](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by [Prof.&nbsp;Dinesh&nbsp;Jayaraman](https://www.seas.upenn.edu/~dineshj/) and [Prof.&nbsp;Kostas&nbsp;Daniilidis](https://www.cis.upenn.edu/~kostas/).  My research interests lie at the intersection of robot learning and 3D computer vision, with a focus on enabling robots to learn from humans and adapt to diverse, unstructured environments.
+
+
 <hr class="transparent-line">
 <hr class="transparent-line">
 <hr class="transparent-line">
 <hr class="transparent-line">
 <hr class="transparent-line">
 
-**Publications**
+**Research**
 ======
+
+(Ongoing)Human Hand Grasp Generation Aligned with Scene from Single-View Input
+------
 
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
@@ -30,8 +35,19 @@ Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 Chuyao Zhang\*, **Tianyou Wang**\*, Yifan Feng
 
 
+Fault Diagnosis of Permanent Magnet Motor based on DCGAN-RCCNN
+------
+Dong Zhang, Zhaoqiu Ning, Bai Yang, **Tianyou Wang**, YangJuan Ma
 
-**Projects**
+
+
+<hr class="transparent-line">
+<hr class="transparent-line">
+<hr class="transparent-line">
+<hr class="transparent-line">
+<hr class="transparent-line">
+
+**Selected Projects**
 ======
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
