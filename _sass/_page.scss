@@ -71,6 +71,11 @@
       }
     }
   }
+  p {
+        word-wrap: break-word; /* Prevent words from breaking awkwardly */
+        white-space: normal; /* Allow text to break naturally */
+        line-height: 1.5; /* Adjust line height for better readability */
+    }
 
   a {
     text-decoration: underline;
