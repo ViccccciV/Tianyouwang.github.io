@@ -18,9 +18,6 @@ I am a second-year Master's student in Robotics at the [GRASP Laboratory](https:
 **Research**
 ======
 
-(Ongoing)Human Hand Grasp Generation Aligned with Scene from Single-View Input
-------
-
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
 Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
@@ -39,6 +36,9 @@ Fault Diagnosis of Permanent Magnet Motor based on DCGAN-RCCNN
 ------
 Dong Zhang, Zhaoqiu Ning, Bai Yang, **Tianyou Wang**, YangJuan Ma
 
+Credit Card Fraud Detection using Logistic Regression
+------
+**Tianyou Wang**\*, Yucheng Zhao\*
 
 
 <hr class="transparent-line">
@@ -54,18 +54,18 @@ Novel Environment Generalization of Action-Chunking Transformer Visuomotor Polic
 ------
 <img src="images/novel%20robo.gif" alt="Novel Robo GIF" width="500" height="600">
 
-投石车
+Remote Ball Shooting Robot Car
 ------
 <img src="./images/Sequence 01_4.gif" alt="images/Sequence 01_4.gif" width="500" height="600" >
 
-Project Video: [View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
+[View Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
 
 
 Intelligent Logistic Robot Car
 ------
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
-Project Video: [View Video](./_portfolio/muted_logistic_robo_car.mp4)
+[View Video](./_portfolio/muted_logistic_robo_car.mp4)
 
 
 Wireless Charging Robot Car
@@ -73,7 +73,7 @@ Wireless Charging Robot Car
 
 <img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
 
-Project Video: [View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
+[View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
 
 ======
