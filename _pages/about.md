@@ -44,6 +44,8 @@ Novel Environment Generalization of Action-Chunking Transformer Visuomotor Polic
 ------
 Name of participants:
 
+<img src="images/Noble%20Enviromenet.gif" alt="Noble Environment" width="500" height="600">
+
 
 投石车
 ------
