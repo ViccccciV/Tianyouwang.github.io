@@ -62,8 +62,7 @@ Project Video: [View Video](./_portfolio/muted_logistic_robo_car.mp4)
 Wireless Charging Robot Car
 ------
 
-<img src="images/bh.gif" alt="BH GIF" style="max-width:100%; height:auto;">
-<img src="images/bh.gif" alt="BH GIF" style="max-width:100%; height:auto;">
+<img src="images/wireless%20speedup.gif" alt="Description of GIF" width="500" height="600">
 
 Project Video: [View Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
