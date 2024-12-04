@@ -56,24 +56,21 @@ Dong Zhang, Zhaoqiu Ning, Bai Yang, **Tianyou Wang**, YangJuan Ma
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
 ------
+Presented **GDN-ACT**, a scalable learning paradigm that integrates a General Distillation Network (GDN) with an Action-Chunking Transformer (ACT), enabling **zero-shot deployment** to five unseen, unstructured environments for bimanual grasping tasks.
+
 <img src="images/novel%20robo.gif" alt="Novel Robo GIF" width="500" height="600">
-
-Remote Ball Shooting Robot Car
-------
-<img src="./images/Sequence 01_4.gif" alt="images/Sequence 01_4.gif" width="500" height="600" >
-
-[Video](./portfolio/15%202024-11-11%2019.40.00.mp4)
-
 
 Intelligent Logistic Robot Car
 ------
+Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
+
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
 [Video](./_portfolio/muted_logistic_robo_car.mp4)
 
-
 Wireless Charging Robot Car
 ------
+Developed a wireless charging smart tracking car capable of dynamic charging, efficient black-line tracking, lap broadcasting, and power display.
 
 <img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
 
