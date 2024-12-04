@@ -49,6 +49,9 @@ Fault Diagnosis of Permanent Magnet Motor based on DCGAN-RCCNN
 ------
 Dong Zhang, Zhaoqiu Ning, Bai Yang, **Tianyou Wang**, YangJuan Ma
 
+<img src="images/37151733292628_.pic.jpg" alt="Descriptive Alt Text" width="500" height="600">
+
+
 [Paper](https://www.sciencedirect.com/science/article/pii/S2352484722002268)
 
 
