@@ -30,11 +30,15 @@ Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
 
 <img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
 
+<hr class="transparent-line">
+
 Embedded Multi-material 3D Printing System
 ------
 **Tianyou Wang**, Yixin Li, Yong Zhong
 
 [Graduation Thesis](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1-LDUzc8IFSN3fNsxJg5Mohjm1MwXUaQ-)
+
+<hr class="transparent-line">
 
 Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 ------
@@ -43,6 +47,8 @@ Chuyao Zhang\*, **Tianyou Wang**\*, Yifan Feng
 [Paper](https://link.springer.com/chapter/10.1007/978-981-97-3682-9_52)
 
 <img src="images/updated%20pic%20blue.jpg" alt="Updated Blue Picture" width="500" height="600">
+
+<hr class="transparent-line">
 
 
 Fault Diagnosis of Permanent Magnet Motor based on DCGAN-RCCNN
@@ -70,6 +76,8 @@ Presented **GDN-ACT**, a scalable learning paradigm that integrates a General Di
 
 <img src="images/novel%20robo.gif" alt="Novel Robo GIF" width="500" height="600">
 
+<hr class="transparent-line">
+
 Intelligent Logistic Robot Car
 ------
 Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
@@ -78,12 +86,13 @@ Designed and built an intelligent Mecanum-wheeled car with advanced sensors and 
 
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
+<hr class="transparent-line">
+
 Wireless Charging Robot Car
 ------
 Developed a wireless charging smart tracking car capable of dynamic charging, efficient black-line tracking, lap broadcasting, and power display.
 
 [Report](./files/wireless.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/updated%20wireless%20charging%20robo%20car.mp4) 
-
 
 <img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
 
