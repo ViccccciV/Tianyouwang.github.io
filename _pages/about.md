@@ -15,9 +15,6 @@ Previously, I earned my bachelor's degree in Intelligent Manufacturing from [SHI
 
 <hr class="transparent-line">
 <hr class="transparent-line">
-<hr class="transparent-line">
-<hr class="transparent-line">
-<hr class="transparent-line">
 
 
 <h1 style="font-size: 2em;">Research</h1>
@@ -62,9 +59,6 @@ Dong Zhang, Zhaoqiu Ning, Bai Yang, **Tianyou Wang**, YangJuan Ma
 
 <hr class="transparent-line">
 <hr class="transparent-line">
-<hr class="transparent-line">
-<hr class="transparent-line">
-<hr class="transparent-line">
 
 
 <h1 style="font-size: 2em;">Selected Project</h1>
@@ -83,7 +77,7 @@ Intelligent Logistic Robot Car
 ------
 Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
 
-[Report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/muted%20logistic%20robo%20car.mp4)
+[Report](./files/main_compressed.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/muted%20logistic%20robo%20car.mp4)
 
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
@@ -100,10 +94,20 @@ Developed a wireless charging smart tracking car capable of dynamic charging, ef
 
 <hr class="transparent-line">
 <hr class="transparent-line">
-<hr class="transparent-line">
+
+
+<h1 style="font-size: 2em;">Education</h1>
+
+2019-2023 B.E. in Intelligent Manufacturing, South China University of Technology
+
+2023-present M.S. in Robotics, University of Pennsylvania
+
+
 <hr class="transparent-line">
 <hr class="transparent-line">
 
 
 <h1 style="font-size: 2em;">Misc</h1>
+
+Come soon...... HAHAHAHAHA
 
