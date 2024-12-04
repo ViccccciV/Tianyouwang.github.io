@@ -37,6 +37,7 @@ Embedded Multi-Material 3D Printing System
 
 <img src="images/3d%20print.gif" alt="3D Print GIF" width="500" height="600">
 
+
 <hr class="transparent-line">
 
 Train Speed Optimization Based on Lagrangian Relaxation Algorithm
