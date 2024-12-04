@@ -17,6 +17,7 @@ Previously, I earned my bachelor's degree in Intelligent Manufacturing from [SHI
 <hr class="transparent-line">
 <hr class="transparent-line">
 
+
 **Research**
 ======
 
