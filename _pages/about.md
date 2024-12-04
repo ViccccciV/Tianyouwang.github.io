@@ -28,7 +28,8 @@ Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
 
 [Project Website](https://zeromimic.github.io/)
 
-<img src="./images/0mimic%20(1).gif" alt="ZeroMimic Animation" width="500" height="600">
+<img src="images/cut%20tofu%20research%201.gif" alt="Cut Tofu Research GIF" width="500" height="600">
+
 
 <hr class="transparent-line">
 
