@@ -66,7 +66,7 @@ Novel Environment Generalization of Action-Chunking Transformer Visuomotor Polic
 ------
 Presented **GDN-ACT**, a scalable learning paradigm that integrates a General Distillation Network (GDN) with an Action-Chunking Transformer (ACT), enabling **zero-shot deployment** to five unseen, unstructured environments for bimanual grasping tasks.
 
-[Report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1UCcYCOrYfgTJAqNm6GQyLNY7QrDO36jw?usp=drive_link)
+[Report](./files/ESE_6500_Final_Project_Report.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1UCcYCOrYfgTJAqNm6GQyLNY7QrDO36jw?usp=drive_link)
 
 <img src="images/novel%20robo.gif" alt="Novel Robo GIF" width="500" height="600">
 
@@ -82,7 +82,7 @@ Wireless Charging Robot Car
 ------
 Developed a wireless charging smart tracking car capable of dynamic charging, efficient black-line tracking, lap broadcasting, and power display.
 
-[Report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/updated%20wireless%20charging%20robo%20car.mp4) 
+[Report](./files/wireless.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/updated%20wireless%20charging%20robo%20car.mp4) 
 
 
 <img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
