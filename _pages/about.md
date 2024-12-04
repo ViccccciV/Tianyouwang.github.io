@@ -30,7 +30,7 @@ Embedded Multi-material 3D Printing System
 ------
 **Tianyou Wang**, Yixin Li, Yong Zhong
 
-[Paper](https://zeromimic.github.io/)
+[Paper](./files/paper1.pdf)
 
 Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 ------
