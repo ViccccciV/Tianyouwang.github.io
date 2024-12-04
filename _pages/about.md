@@ -21,7 +21,7 @@ Previously, I earned my bachelor's degree in Intelligent Manufacturing from [SHI
 **Research**
 ======
 
-<h1 style="font-size: 3em;">Research</h1>
+<h1 style="font-size: 2em;">Research</h1>
 
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
@@ -35,7 +35,7 @@ Embedded Multi-material 3D Printing System
 ------
 **Tianyou Wang**, Yixin Li, Yong Zhong
 
-[Graduation Thesis](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Demo](https://drive.google.com/drive/folders/1-LDUzc8IFSN3fNsxJg5Mohjm1MwXUaQ-)
+[Graduation Thesis](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1-LDUzc8IFSN3fNsxJg5Mohjm1MwXUaQ-)
 
 Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 ------
