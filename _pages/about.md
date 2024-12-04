@@ -20,6 +20,8 @@ Previously, I earned my bachelor's degree in Intelligent Manufacturing from [SHI
 **Research**
 ======
 
+<h1 style="font-size: 5em;">Research</h1>
+
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
 Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
