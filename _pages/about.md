@@ -42,7 +42,8 @@ Chuyao Zhang\*, **Tianyou Wang**\*, Yifan Feng
 
 [Paper](https://link.springer.com/chapter/10.1007/978-981-97-3682-9_52)
 
-<img src="images/37141733292620_.pic.jpg" alt="Descriptive Alt Text" width="500" height="600">
+<img src="images/updated%20pic%20blue.jpg" alt="Updated Blue Picture" width="500" height="600">
+
 
 Fault Diagnosis of Permanent Magnet Motor based on DCGAN-RCCNN
 ------
