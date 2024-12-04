@@ -32,7 +32,7 @@ Embedded Multi-material 3D Printing System
 ------
 **Tianyou Wang**, Yixin Li, Yong Zhong
 
-[Graduation Thesis](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;[demo](https://drive.google.com/drive/folders/1-LDUzc8IFSN3fNsxJg5Mohjm1MwXUaQ-)
+[Graduation Thesis](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Demo](https://drive.google.com/drive/folders/1-LDUzc8IFSN3fNsxJg5Mohjm1MwXUaQ-)
 
 Train Speed Optimization Based on Lagrangian Relaxation Algorithm
 ------
@@ -60,7 +60,7 @@ Novel Environment Generalization of Action-Chunking Transformer Visuomotor Polic
 ------
 Presented **GDN-ACT**, a scalable learning paradigm that integrates a General Distillation Network (GDN) with an Action-Chunking Transformer (ACT), enabling **zero-shot deployment** to five unseen, unstructured environments for bimanual grasping tasks.
 
-[report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1UCcYCOrYfgTJAqNm6GQyLNY7QrDO36jw?usp=drive_link)
+[Report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1UCcYCOrYfgTJAqNm6GQyLNY7QrDO36jw?usp=drive_link)
 
 <img src="images/novel%20robo.gif" alt="Novel Robo GIF" width="500" height="600">
 
@@ -68,7 +68,7 @@ Intelligent Logistic Robot Car
 ------
 Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
 
-[report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;[Video](./portfolio/muted%20logistic%20robo%20car.mp4)
+[Report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/muted%20logistic%20robo%20car.mp4)
 
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
@@ -76,7 +76,7 @@ Wireless Charging Robot Car
 ------
 Developed a wireless charging smart tracking car capable of dynamic charging, efficient black-line tracking, lap broadcasting, and power display.
 
-[report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;[Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
+[Report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
 <img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
 
