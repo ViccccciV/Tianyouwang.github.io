@@ -32,7 +32,7 @@ Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
 
 <hr class="transparent-line">
 
-Embedded Multi-material 3D Printing System
+Embedded Multi-Material 3D Printing System
 ------
 **Tianyou Wang**, Yixin Li, Yong Zhong
 
