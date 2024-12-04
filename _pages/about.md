@@ -64,17 +64,17 @@ Intelligent Logistic Robot Car
 ------
 Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
 
-<img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
-
 [Video](./portfolio/muted_logistic_robo_car.mp4)
+
+<img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
 Wireless Charging Robot Car
 ------
 Developed a wireless charging smart tracking car capable of dynamic charging, efficient black-line tracking, lap broadcasting, and power display.
 
-<img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
-
 [Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
+
+<img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
 
 
 <hr class="transparent-line">
