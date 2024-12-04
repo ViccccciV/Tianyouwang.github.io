@@ -66,7 +66,7 @@ Designed and built an intelligent Mecanum-wheeled car with advanced sensors and 
 
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
-[Video](./_portfolio/muted_logistic_robo_car.mp4)
+[Video](./portfolio/muted_logistic_robo_car.mp4)
 
 Wireless Charging Robot Car
 ------
