@@ -27,7 +27,6 @@ Zhuolun Zhao\*, Junyao Shi\*, **Tianyou Wang**, Jason Ma, Dinesh Jayaraman
 
 <img src="images/cut%20tofu%20research%201.gif" alt="Cut Tofu Research GIF" width="500" height="600">
 
-
 <hr class="transparent-line">
 
 Embedded Multi-Material 3D Printing System
@@ -35,6 +34,8 @@ Embedded Multi-Material 3D Printing System
 **Tianyou Wang**, Yixin Li, Yong Zhong
 
 [Graduation Thesis](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1-LDUzc8IFSN3fNsxJg5Mohjm1MwXUaQ-)
+
+<img src="images/3d%20print.gif" alt="3D Print GIF" width="500" height="600">
 
 <hr class="transparent-line">
 
