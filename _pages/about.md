@@ -8,6 +8,8 @@ redirect_from:
 ---
 Hi! I am a second-year Master's student in Robotics at the [GRASP Laboratory](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by [Prof.&nbsp;Dinesh&nbsp;Jayaraman](https://www.seas.upenn.edu/~dineshj/) and [Prof.&nbsp;Kostas&nbsp;Daniilidis](https://www.cis.upenn.edu/~kostas/).  My research interests lie at the intersection of robot learning and 3D computer vision, with a focus on enabling robots to learn from humans and adapt to diverse, unstructured environments.
 
+Previously, I earned my bachelor's degree in Intelligent Manufacturing from [SHIEN-MING WU School of Intelligent Engineering](https://www2.scut.edu.cn/wusie_en/25919/list.htm), South China University of Technology in 2023. I graduated from Liaoning Province Shiyan High School in 2019.
+
 
 <hr class="transparent-line">
 <hr class="transparent-line">
