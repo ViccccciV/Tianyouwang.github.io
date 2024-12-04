@@ -66,7 +66,7 @@ Intelligent Logistic Robot Car
 ------
 Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
 
-[Video](./portfolio/muted_logistic_robo_car.mp4)
+[Video](./portfolio/muted%20logistic%20robo%20car.mp4)
 
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
