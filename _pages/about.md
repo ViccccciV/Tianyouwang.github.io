@@ -95,14 +95,5 @@ Developed a wireless charging smart tracking car capable of dynamic charging, ef
 <hr class="transparent-line">
 
 
-**Publication**
-======
-
-ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
-------
-Zhuolun Zhao*, Junyao Shi*, Tianyou Wang, Jason Ma, Dinesh Jayaraman, ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos, 2025 IEEE International Conference on Robotics & Automation (ICRA 2025). Submitted. （*First authorship shared.）
-
-International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023)
-------
-Chuyao Zhang*, Tianyou Wang*, Yifan Feng, Train Speed Optimization Based on Lagrangian Relaxation Algorithm,2022 International Conference on SmartRail, Traffic and Transportation Engineering (ICSTTE 2023) (Conference).（*First authorship shared. Order on publication randomized.）
+<h1 style="font-size: 2em;">Misc</h1>
 
