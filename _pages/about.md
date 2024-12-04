@@ -20,9 +20,6 @@ Previously, I earned my bachelor's degree in Intelligent Manufacturing from [SHI
 <hr class="transparent-line">
 
 
-**Research**
-======
-
 <h1 style="font-size: 2em;">Research</h1>
 
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
@@ -61,8 +58,8 @@ Dong Zhang, Zhaoqiu Ning, Bai Yang, **Tianyou Wang**, YangJuan Ma
 <hr class="transparent-line">
 <hr class="transparent-line">
 
-**Selected Projects**
-======
+
+<h1 style="font-size: 2em;">Selected Project</h1>
 
 Novel Environment Generalization of Action-Chunking Transformer Visuomotor Policy
 ------
