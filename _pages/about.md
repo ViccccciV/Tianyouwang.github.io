@@ -1,10 +1,12 @@
 ---
 permalink: /
+title: "Tianyou Wang"
 author_profile: true
 redirect_from: 
   - /about/ 
   - /about.html
 --
+
 <h1 style="font-size: 2em;">About Me</h1>
 
 Hi! I am a second-year Master's student in Robotics at the [GRASP Laboratory](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by [Prof.&nbsp;Dinesh&nbsp;Jayaraman](https://www.seas.upenn.edu/~dineshj/) and [Prof.&nbsp;Kostas&nbsp;Daniilidis](https://www.cis.upenn.edu/~kostas/).  My research interests lie at the intersection of robot learning and 3D computer vision, with a focus on enabling robots to learn from humans and adapt to diverse, unstructured environments.
