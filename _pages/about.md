@@ -1,11 +1,10 @@
 ---
 permalink: /
-title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/ 
   - /about.html
---
+---
 
 <h1 style="font-size: 2em;">About Me</h1>
 
