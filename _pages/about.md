@@ -85,7 +85,8 @@ Wireless Charging Robot Car
 ------
 Developed a wireless charging smart tracking car capable of dynamic charging, efficient black-line tracking, lap broadcasting, and power display.
 
-[Report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
+[Report](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](./portfolio/updated%20wireless%20charging%20robo%20car.mp4) 
+
 
 <img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
 
