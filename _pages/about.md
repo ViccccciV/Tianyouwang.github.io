@@ -60,13 +60,15 @@ Novel Environment Generalization of Action-Chunking Transformer Visuomotor Polic
 ------
 Presented **GDN-ACT**, a scalable learning paradigm that integrates a General Distillation Network (GDN) with an Action-Chunking Transformer (ACT), enabling **zero-shot deployment** to five unseen, unstructured environments for bimanual grasping tasks.
 
+[report](./files/paper1.pdf)     [Video](https://drive.google.com/drive/folders/1UCcYCOrYfgTJAqNm6GQyLNY7QrDO36jw?usp=drive_link)
+
 <img src="images/novel%20robo.gif" alt="Novel Robo GIF" width="500" height="600">
 
 Intelligent Logistic Robot Car
 ------
 Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
 
-[Video](./portfolio/muted%20logistic%20robo%20car.mp4)
+[report](./files/paper1.pdf)     [Video](./portfolio/muted%20logistic%20robo%20car.mp4)
 
 <img src="images/Inrtelligent%20logistics%20robot%20car.gif" alt="Intelligent Logistics Robot Car" width="500" height="600">
 
@@ -74,7 +76,7 @@ Wireless Charging Robot Car
 ------
 Developed a wireless charging smart tracking car capable of dynamic charging, efficient black-line tracking, lap broadcasting, and power display.
 
-[Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
+[report](./files/paper1.pdf)     [Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
 <img src="images/wireless%20speedup.gif" alt="wireless speedup" width="500" height="600">
 
