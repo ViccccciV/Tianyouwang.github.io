@@ -80,9 +80,15 @@ Wireless Charging Robot Car
 [Video](./portfolio/wireless%20car%20with%20subtitle.mp4)
 
 
-======
+<hr class="transparent-line">
+<hr class="transparent-line">
+<hr class="transparent-line">
+<hr class="transparent-line">
+<hr class="transparent-line">
+
+
 **Publication**
-------
+======
 
 ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 ------
