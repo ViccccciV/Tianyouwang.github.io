@@ -79,7 +79,7 @@ Closed-loop Control for a Subway Seat Cleaning Robot Manipulator
 ------
 Deployed an extended **Cartesian impedance control** algorithm for a subway seat cleaning robot manipulator, enabling precise force tracking and efficient motion on surfaces.
 
-[Report]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code](https://github.com/RPFey/MEAM5170-Final/tree/sick/ros/meam520_labs)
+[Report](files/MEAM5170_Final_Report.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code](https://github.com/RPFey/MEAM5170-Final/tree/sick/ros/meam520_labs)
 
 <img src="https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/images/38171733380269_.pic.jpg" alt="Descriptive Text" width="500" height="600">
 
