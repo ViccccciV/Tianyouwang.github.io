@@ -81,6 +81,9 @@ Deployed an extended **Cartesian impedance control** algorithm for a subway seat
 
 [Report]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code](https://github.com/RPFey/MEAM5170-Final/tree/sick/ros/meam520_labs)
 
+<img src="https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/images/38171733380269_.pic.jpg" alt="Descriptive Text" width="500" height="600">
+
+
 Intelligent Logistic Robot Car
 ------
 Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
