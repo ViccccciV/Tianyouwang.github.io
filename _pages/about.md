@@ -81,7 +81,7 @@ Deployed an extended **Cartesian impedance control** algorithm for a subway seat
 
 [Report](files/MEAM5170_Final_Report.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code](https://github.com/RPFey/MEAM5170-Final/tree/sick/ros/meam520_labs)
 
-<img src="https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/images/38171733380269_.pic.jpg" alt="Descriptive Text" width="500" height="600">
+<img src="https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/images/Wechat%20arm.jpg" alt="Wechat Arm" width="500" height="600">
 
 
 Intelligent Logistic Robot Car
