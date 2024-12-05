@@ -75,6 +75,12 @@ Presented **GDN-ACT**, a scalable learning paradigm that integrates a General Di
 
 <hr class="transparent-line">
 
+Closed-loop Control for a Subway Seat Cleaning Robot Manipulator
+------
+Deployed an extended **Cartesian impedance control** algorithm for a subway seat cleaning robot manipulator, enabling precise force tracking and efficient motion on surfaces.
+
+[Report]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code](https://github.com/RPFey/MEAM5170-Final/tree/sick/ros/meam520_labs)
+
 Intelligent Logistic Robot Car
 ------
 Designed and built an intelligent Mecanum-wheeled car with advanced sensors and a manipulator, capable of obstacle avoidance, line tracking, object detection, grasping, and unloading tasks.
