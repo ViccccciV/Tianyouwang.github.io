@@ -33,7 +33,7 @@ Embedded Multi-Material 3D Printing System
 ------
 **Tianyou Wang**, Yixin Li, Yong Zhong
 
-[Graduation Thesis](./files/paper1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1-LDUzc8IFSN3fNsxJg5Mohjm1MwXUaQ-)
+[Graduation Thesis (Translated)](./files/graduation_thesis.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Video](https://drive.google.com/drive/folders/1-LDUzc8IFSN3fNsxJg5Mohjm1MwXUaQ-)
 
 <img src="images/3d%20print.gif" alt="3D Print GIF" width="500" height="600">
 
